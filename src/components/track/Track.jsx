@@ -16,7 +16,7 @@ function Track() {
                                 </svg>
 
                                 <h2 className="title-font font-medium text-lg text-gray-900" style={{ color: mode === 'dark' ? 'white' : '' }}>Premium Tshirts</h2>
-                                <p className="leading-relaxed">Our T-Shirts are 100% made of cotton.
+                                <p className="leading-relaxed">Productos Calidad-Precio.
                                 </p>
                             </div>
                         </div>
@@ -27,7 +27,7 @@ function Track() {
                                 </svg>
 
                                 <h2 className="title-font font-medium text-lg text-gray-900" style={{ color: mode === 'dark' ? 'white' : '' }}>Premium Tshirts</h2>
-                                <p className="leading-relaxed">Our T-Shirts are 100% made of cotton.
+                                <p className="leading-relaxed">Productos Calidad-Precio.
                                 </p>
                             </div>
                         </div>
@@ -39,7 +39,7 @@ function Track() {
                                 </svg>
 
                                 <h2 className="title-font font-medium text-lg text-gray-900" style={{ color: mode === 'dark' ? 'white' : '' }}>Premium Tshirts</h2>
-                                <p className="leading-relaxed">Our T-Shirts are 100% made of cotton.
+                                <p className="leading-relaxed">Productos Calidad-Precio.
                                 </p>
                             </div>
                         </div>
